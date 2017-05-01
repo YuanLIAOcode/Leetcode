@@ -12,7 +12,7 @@ class Solution(object):
                 i += 1
             j += 1
 
-soluton = Solution()
+solution = Solution()
 lis = [0,0,1]
-soluton.moveZeroes(lis)
+solution.moveZeroes(lis)
 print(lis)

@@ -4,7 +4,6 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
-        collection = {}
         major = nums[0]
         count = 1
         i = 1
